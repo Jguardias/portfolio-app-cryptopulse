@@ -2,6 +2,14 @@
 
 Aplicación de seguimiento de criptomonedas desarrollada en Flutter. Este proyecto es un espacio de aprendizaje enfocado en la construcción de aplicaciones móviles robustas y escalables.
 
+## 📱 Vista previa
+
+<p align="center">
+  <video src="assets/screenshots/demo.mp4" width="300" controls>
+    Tu navegador no soporta la reproducción de video.
+  </video>
+</p>
+
 ## ⚙️ Configuración del proyecto
 
 Para ejecutar este proyecto, necesitas obtener tu propia API Key:
