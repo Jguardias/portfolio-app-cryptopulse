@@ -4,11 +4,9 @@ Aplicación de seguimiento de criptomonedas desarrollada en Flutter. Este proyec
 
 ## 📱 Vista previa
 
-<p align="center">
-  <video src="assets/screenshots/demo.mp4" width="300" controls>
-    Tu navegador no soporta la reproducción de video.
-  </video>
-</p>
+¡Mira cómo funciona la aplicación en acción!
+
+[![CryptoPulse Demo](https://img.youtube.com/vi/seKICHRhTu0/0.jpg)](https://youtube.com/shorts/seKICHRhTu0)
 
 ## ⚙️ Configuración del proyecto
 
