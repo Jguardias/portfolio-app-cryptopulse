@@ -4,12 +4,13 @@ Aplicación de seguimiento de criptomonedas desarrollada en Flutter. Este proyec
 
 ## ⚙️ Configuración del proyecto
 
-Para ejecutar este proyecto, necesitas configurar tus propias variables de entorno:
+Para ejecutar este proyecto, necesitas obtener tu propia API Key:
 
-1. Copia el archivo `.env_template` y renómbralo a `.env`.
-2. Abre el archivo `.env` y coloca tu API Key correspondiente:
+1. Obtén tu clave gratuita en [CoinGecko API](https://www.coingecko.com/en/api).
+2. Copia el archivo `.env_template` y renómbralo a `.env`.
+3. Abre el archivo `.env` y coloca tu API Key:
    `API_KEY=tu_api_key_aqui`
-3. Asegúrate de que el archivo `.env` esté en la raíz del proyecto. **No compartas este archivo.**
+4. Asegúrate de que el archivo `.env` esté en la raíz del proyecto. **No compartas este archivo.**
 
 ## 💻 Entorno de Desarrollo (VS Code)
 
